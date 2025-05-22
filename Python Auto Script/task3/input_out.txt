@@ -1,0 +1,50 @@
+Test Data File:/home/tmsa7/Downloads/test/task3/input_image_binary.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency (Monobit) Test                      	0.0                 	Non-Random
+02. Frequency Test within a Block                 	0.0                 	Non-Random
+03. Runs Test                                     	0.0                 	Non-Random
+04. Test for the Longest Run of Ones in a Block   	8.911746712902613e-51	Non-Random
+05. Binary Matrix Rank Test                       	0.0                 	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+07. Non-overlapping Template Matching Test        	0.0                 	Non-Random
+08. Overlapping Template Matching Test            	0.0                 	Non-Random
+09. Maurer's "Universal Statistical" Test         	0.0                 	Non-Random
+10. Linear Complexity Test                        	3.2798357370272093e-122	Non-Random
+11. Serial Test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cumulative Sums Test (Forward)                	0.0                 	Non-Random
+14. Cumulative Sums Test (Backward)               	0.0                 	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	1.3866722199083714  	0.9257656183607624  	Random
+				-3        	1.3283200000000002  	0.9319907701798379  	Random
+				-2        	4.955555555555556   	0.42132832482615457 	Random
+				-1        	1.4                 	0.924313272801667   	Random
+				+1        	1.0                 	0.9625657732472964  	Random
+				+2        	3.533333333333333   	0.6183499826363346  	Random
+				+3        	6.040000000000001   	0.3023461834889842  	Random
+				+4        	11.457142857142857  	0.043032862104949825	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	2                   	0.8180222264149289  	Random
+				-8.0      	3                   	0.8702827722810359  	Random
+				-7.0      	6                   	0.9301105081236055  	Random
+				-6.0      	8                   	0.774848422162878   	Random
+				-5.0      	12                  	0.4605966187047714  	Random
+				-4.0      	12                  	0.40278369424647575 	Random
+				-3.0      	6                   	0.8875370839817152  	Random
+				-2.0      	3                   	0.7150006546880893  	Random
+				-1.0      	4                   	0.7518296340458492  	Random
+				+1.0      	3                   	0.5270892568655381  	Random
+				+2.0      	2                   	0.5838824207703652  	Random
+				+3.0      	1                   	0.5716076449533316  	Random
+				+4.0      	1                   	0.6325851216960416  	Random
+				+5.0      	1                   	0.6732899796599957  	Random
+				+6.0      	1                   	0.7029175632453667  	Random
+				+7.0      	1                   	0.7257209852083116  	Random
+				+8.0      	2                   	0.8064959405073401  	Random
+				+9.0      	5                   	1.0                 	Random
